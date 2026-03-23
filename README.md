@@ -138,7 +138,7 @@ Normalization is:
 ## Changelog
 
 The complete development history is kept in  
-**[CHANGELOG.txt](CHANGELOG.txt)**  
+**[CHANGELOG.md](CHANGELOG.md)**  
 to ensure a single, consistent source of truth.
 
 This README focuses on usage and configuration.
