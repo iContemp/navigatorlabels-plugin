@@ -64,12 +64,10 @@ This ensures consistent behavior even when titles come from Word, PDFs, macOS, o
 
 ## Installation
 
-1. Place the plugin folder in:  
-   `<your_wiki>/lib/plugins/navigatorlabels/`
+1. Place the navigatorlabels plugin folder in:  
+   `<your_wiki>/lib/plugins/`
 
-2. Ensure `plugin.info.txt` is present and correctly configured.
-
-3. Visit:  
+2. Visit:  
    **Admin → Configuration Settings → NavigatorLabels**  
    to customize:
 
