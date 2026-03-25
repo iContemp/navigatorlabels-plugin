@@ -25,10 +25,11 @@ This produces natural alphabetical order across multiple languages.
 
 Supported out of the box:
 
-- **Portuguese:** a, as, o, os, um, uma, uns, umas  
-- **English:** the, an  
-- **Spanish:** el, la, los, las, un, una, unos, unas  
+- **English:** the, an
 - **French elisions:** l’, d’, qu’  
+- **Portuguese:** a, as, o, os, um, uma, uns, umas 
+- **Spanish:** el, la, los, las, un, una, unos, unas  
+
 
 The list is fully configurable in the Admin panel.
 
